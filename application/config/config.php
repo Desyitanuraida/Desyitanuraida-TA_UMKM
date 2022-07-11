@@ -23,7 +23,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://kreasi.nurulfikri.ac.id/desy21084si/UMKM/';
+$config['base_url'] = 'http://localhost/UMKM';
 /* . $_SERVER['HTTP_HOST'];*/
 /*$config['base_url'] .= preg_replace('@/+$@', '', dirname($_SERVER['SCRIPT_NAME'])) . '/';*/
 
